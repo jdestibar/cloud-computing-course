@@ -26,7 +26,6 @@ cloud-computing-course/
 ├── projects/
 ├── notes/
 ├── reflections/
-│   └── cloud-concepts-reflection.md
 └── README.md
 ```
 
