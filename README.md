@@ -20,6 +20,7 @@ This repository serves as my organized workspace for all course requirements, in
 
 ## 📂 Repository Structure
 
+```text
 cloud-computing-course/
 ├── activities/
 ├── projects/
@@ -27,6 +28,7 @@ cloud-computing-course/
 ├── reflections/
 │   └── cloud-concepts-reflection.md
 └── README.md
+```
 
 ## 📖 Key Concepts Covered
 
